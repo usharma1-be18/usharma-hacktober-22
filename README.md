@@ -5,3 +5,4 @@ encouraging the open source contribution
 # modifying the file as the nana ji
 #fourth and final addition as the devil
 #fifth addition by rhetorical
+#sixth contribution by armaggeddon
